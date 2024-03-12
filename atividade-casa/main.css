@@ -1,4 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
 p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10vh;
+    color: rgb(226, 43, 171);
+    background-color: pink;
+}
+
+main{
+    display: grid;
+    place-items: center;    
+   min-height: 100vh;
+
     
-    color: blueviolet;
+    background-color: violet;
 }

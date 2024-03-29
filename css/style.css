@@ -31,3 +31,8 @@ button{
     background-color: blue;
     color: aliceblue;
 }
+
+form {
+    border: 1px solid gray; /* Borda sólida de 1 pixel na cor cinza */
+    padding: 10px; /* Padding interno de 10 pixels */
+}

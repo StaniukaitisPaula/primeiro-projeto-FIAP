@@ -15,6 +15,14 @@ header{
 
 }
 #container{
-    background-color: aqua;
-    margin: 20px;
+    padding: 20px;
 }
+
+#conteudo{
+    line-height: 1.5;
+}
+
+p{
+    color: green;
+}
+

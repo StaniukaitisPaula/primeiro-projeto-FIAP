@@ -31,7 +31,7 @@ button{
 
 form {
     border: 1px solid gray; /* Borda sólida de 1 pixel na cor cinza */
-    padding: 20px; /* Padding interno de 10 pixels */
+    padding: 10px; /* Padding interno de 10 pixels */
 }
 
 .rodape{
